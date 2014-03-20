@@ -8,6 +8,6 @@ If you notice any issues or if you notice that parts are outdated (due to a Unit
 
 Thanks for your interest, and any constructive feedback is welcome.
 
-Michael Quandt
-http://mquandt.com
+Michael Quandt  
+http://mquandt.com  
 @quandtm
